@@ -1,0 +1,31 @@
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Elegant Studio.exe.config
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Elegant Studio.exe
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Elegant Studio.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\DiscordRPC.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Humanizer.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\ICSharpCode.Decompiler.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\ICSharpCode.TextEditor.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\MaterialSkin.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Newtonsoft.Json.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\System.Collections.Immutable.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\System.Reflection.Metadata.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\DiscordRPC.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\DiscordRPC.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\ICSharpCode.Decompiler.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\ICSharpCode.Decompiler.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\Newtonsoft.Json.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\System.Collections.Immutable.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Release\System.Reflection.Metadata.xml
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.csprojAssemblyReference.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.Formlar.AntaresServerConnection.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.Formlar.Ayarlar.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.AnaEkran.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.OlusturDialog.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.ProjeOlustur.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.Properties.Resources.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant_Studio.Studio.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.csproj.GenerateResource.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.csproj.CoreCompileInputs.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.csproj.CopyComplete
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.exe
+C:\Users\fikret\Desktop\Elegant Studio\obj\Release\Elegant Studio.pdb

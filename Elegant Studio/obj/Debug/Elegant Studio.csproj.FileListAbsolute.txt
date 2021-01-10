@@ -1,0 +1,53 @@
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\Elegant Studio.exe.config
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\Elegant Studio.exe
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\Elegant Studio.pdb
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\Humanizer.dll
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.dll
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\System.Collections.Immutable.dll
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.pdb
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.xml
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\System.Collections.Immutable.xml
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.csprojAssemblyReference.cache
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant_Studio.Form1.resources
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant_Studio.Properties.Resources.resources
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant_Studio.Studio.resources
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.csproj.GenerateResource.cache
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.csproj.CoreCompileInputs.cache
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.csproj.CopyComplete
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.exe
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant Studio.pdb
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant_Studio.ProjeOlustur.resources
+C:\Users\fikret\Google Drive\source\repos\Elegant Studio\obj\Debug\Elegant_Studio.OlusturDialog.resources
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Elegant Studio.exe.config
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Elegant Studio.exe
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Elegant Studio.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Humanizer.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\System.Collections.Immutable.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\ICSharpCode.Decompiler.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\System.Collections.Immutable.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.csprojAssemblyReference.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.Form1.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.OlusturDialog.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.ProjeOlustur.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.Properties.Resources.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.Studio.resources
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.csproj.GenerateResource.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.csproj.CoreCompileInputs.cache
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.csproj.CopyComplete
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.exe
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant Studio.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\MaterialSkin.dll
+C:\Users\fikret\Desktop\Elegant Studio\obj\Debug\Elegant_Studio.Formlar.Ayarlar.resources
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\DiscordRPC.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\DiscordRPC.pdb
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\DiscordRPC.xml
+C:\Users\fikret\Desktop\Elegant Studio\bin\Debug\Newtonsoft.Json.xml
